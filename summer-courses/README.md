@@ -10,3 +10,6 @@
 ✔️[کانال تلگرام انجمن علمی گروه کامپیوتر](https://t.me/csaiaum)
 
 ✔️[اینستا انجمن علمی گروه کامپیوتر](https://instagram.com/csa_iaum)
+
+
+![poster](./poster.jpg)
