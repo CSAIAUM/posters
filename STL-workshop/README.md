@@ -12,7 +12,7 @@
 
 ✔️ [اینستاگرام انجمن علمی گروه کامپیوتر](https://instagram.com/csa_iaum)
 
-✔️ [ایمیل انجمن علمی گروه کامپیوتر](CSA@mshdiau.ac.ir)
+✔️ [ایمیل انجمن علمی گروه کامپیوتر](mailto:CSA@mshdiau.ac.ir)
 
 
 ![poster](./poster.jpg)
